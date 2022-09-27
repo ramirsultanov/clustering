@@ -1,0 +1,3 @@
+[submodule "mpl"]
+	path = mpl
+	url = https://github.com/Cryoris/matplotlib-cpp.git
